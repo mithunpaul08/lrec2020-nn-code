@@ -1,1 +1,2 @@
-# lrec2020-nn-code
+# refer readme under eval_noalnlp/readme.md
+ 
